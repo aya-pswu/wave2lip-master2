@@ -1,2 +1,0 @@
-Text:  OFF ROAD PARKING
-Conf:  5

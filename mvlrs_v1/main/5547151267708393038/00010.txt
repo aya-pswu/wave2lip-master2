@@ -1,2 +1,0 @@
-Text:  AND THIS IS OUR TEST BUILD POD
-Conf:  2

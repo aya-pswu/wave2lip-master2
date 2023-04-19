@@ -1,2 +1,0 @@
-Text:  WIND BLOWING 80
-Conf:  3
