@@ -1,0 +1,2 @@
+Text:  YOU ARE CLOSEST
+Conf:  5

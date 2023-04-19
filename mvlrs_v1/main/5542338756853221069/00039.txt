@@ -1,0 +1,2 @@
+Text:  GUESS THE PRICE
+Conf:  5

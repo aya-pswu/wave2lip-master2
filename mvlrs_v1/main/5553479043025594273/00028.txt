@@ -1,0 +1,2 @@
+Text:  THAT IS MINUS 40
+Conf:  4

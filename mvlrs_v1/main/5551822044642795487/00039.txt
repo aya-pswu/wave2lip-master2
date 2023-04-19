@@ -1,0 +1,2 @@
+Text:  ITS OWN CURRENCY
+Conf:  6

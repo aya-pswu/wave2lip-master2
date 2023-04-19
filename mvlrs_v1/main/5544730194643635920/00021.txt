@@ -1,0 +1,2 @@
+Text:  PLAY YOUR CARDS RIGHT
+Conf:  5
